@@ -15,6 +15,7 @@ A user-friendly tool to help you create strong passwords and enhance your accoun
 - **🎯 Purpose**: Practice form validation and logic implementation using JavaScript.  
 
 ![Password Creation](./Images/Password_img.png)
+
 ---
 
 ### 2️⃣ **Digital Calculator**  
@@ -40,6 +41,7 @@ A responsive and interactive form for user login and registration.
 - **🎯 Purpose**: Explore form validation, CSS styling, and interactivity.  
 
 ![Sign_In_Sign_Up_Form](./Images/SigninSignup_img.png)
+
 ---
 
 ## 🛠️ Technologies Used  
