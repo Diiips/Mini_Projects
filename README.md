@@ -14,6 +14,7 @@ A user-friendly tool to help you create strong passwords and enhance your accoun
   - Modern and responsive design.  
 - **🎯 Purpose**: Practice form validation and logic implementation using JavaScript.  
 
+![Password Creation](./Images/Password_img.png)
 ---
 
 ### 2️⃣ **Digital Calculator**  
@@ -23,7 +24,9 @@ A sleek, functional calculator for basic math operations.
   - Supports **addition**, **subtraction**, **multiplication**, and **division**.  
   - Clean and minimal interface.  
   - **Error handling** (e.g., division by zero).  
-- **🎯 Purpose**: Enhance DOM manipulation and event handling skills.  
+- **🎯 Purpose**: Enhance DOM manipulation and event handling skills.
+
+![Digital_Calculator](./Images/Calculator_img.png)
 
 ---
 
@@ -36,6 +39,7 @@ A responsive and interactive form for user login and registration.
   - Smooth transitions with **CSS animations**.  
 - **🎯 Purpose**: Explore form validation, CSS styling, and interactivity.  
 
+![Sign_In_Sign_Up_Form](./Images/SigninSignup_img.png)
 ---
 
 ## 🛠️ Technologies Used  
@@ -54,14 +58,6 @@ A responsive and interactive form for user login and registration.
 2. Navigate to the project folder of your choice.  
 
 3. Open the `.html` file in your favorite browser to view and interact with the project.  
-
----
-
-## 🚀 Project Preview
-![Password Creation](./Images/Password_img.png)
-![Digital_Calculator](./Images/Calculator_img.png)
-![Sign_In_Sign_Up_Form](./Images/SigninSignup_img.png)  
-
 
 ---
 
