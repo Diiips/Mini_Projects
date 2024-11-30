@@ -57,23 +57,11 @@ A responsive and interactive form for user login and registration.
 
 ---
 
-![Password Creation](./Images/Password_img)
-![Digital_Calculator](./Images/Calculator_img)
-![Sign_In_Sign_Up_Form](./Images/SigninSignup_img)
+## 🚀 Project Preview
+![Password Creation](./Images/Password_img.png)
+![Digital_Calculator](./Images/Calculator_img.png)
+![Sign_In_Sign_Up_Form](./Images/SigninSignup_img.png)  
 
-
----
-
-## 🤝 Contributions  
-This repository is for practice purposes, but I’d love to hear your thoughts! If you have suggestions or ideas for improvement, feel free to open an issue or pull request.  
-
----
-
-## 💬 Contact  
-Feel free to reach out if you have any questions or feedback! 😊  
-
-📧 Email: your-email@example.com  
-🌐 GitHub: [your-username](https://github.com/your-username)  
 
 ---
 
