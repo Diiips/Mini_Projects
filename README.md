@@ -57,7 +57,9 @@ A responsive and interactive form for user login and registration.
 
 ---
 
-## 📸 Screenshots  
+![Password Creation](./Images/Password_img)
+![Digital_Calculator](./Images/Calculator_img)
+![Sign_In_Sign_Up_Form](./Images/SigninSignup_img)
 
 
 ---
